@@ -6,10 +6,10 @@ document.querySelector(".year").textContent = String(dynamicYear);
 let ctx;
 const dimension = [document.documentElement.clientWidth, document.documentElement.clientHeight];
 const keywords = [
-	"Milad",
-	"Milad Sadeghi",
-	"miladsade96",
-	"JAVA",
+	"Scrum",
+	"RUP",
+	"Analyze",
+	"Design",
 	"java",
 	"Java SE",
 	"JVM",
