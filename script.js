@@ -18,16 +18,16 @@ const keywords = [
 	"SQL",
 	"NoSQL",
 	"MySQL",
-	"PostgreSQL",
+	"PMBOK",
 	"OracleDB",
-	"H2",
+	"PLSQL",
 	"Spring",
 	"Spring Framework",
 	"Spring Boot",
 	"Spring Data JPA",
 	"Spring MVC",
 	"Hibernate",
-	"ORM",
+	"Project Management",
 	"RestAPI",
 	"API Design",
 	"GraphQL",
@@ -66,6 +66,8 @@ const keywords = [
 	"JetBrains",
 	"IntelliJ IDE",
 	"VSCode",
+	"UML",
+	"BPMN2"
 ];
 
 const brushes = [
