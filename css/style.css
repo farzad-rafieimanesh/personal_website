@@ -11,7 +11,7 @@ html {
 }
 
 body {
-	font-family: "Josefin Slab", serif;
+	font-family: "DM Serif Text", serif;
 	font-weight: 700;
 	font-size: 1.8rem;
 	line-height: 1.2;
@@ -82,11 +82,11 @@ body {
 	fill: #1d9bf0;
 }
 
-.icon.leetcode:hover svg path {
+.icon.blog:hover svg path {
 	fill: #ea4c05;
 }
 
-.icon.blog:hover svg path {
+.icon.hashnode:hover svg path {
 	fill: #ffbe0b;
 }
 
